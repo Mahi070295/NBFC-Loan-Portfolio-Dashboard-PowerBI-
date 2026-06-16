@@ -35,13 +35,4 @@ and risk reporting.
 - Power BI Desktop (DAX, Power Query, Data Modeling)
 - Dataset: Simulated NBFC loan portfolio data
 
-## Screenshots
 
-### Executive Overview
-![Executive Overview](screenshots/01_Executive_Overview.png)
-
-### Risk & Asset Quality
-![Risk & Asset Quality](screenshots/02_Risk_Asset_Quality.png)
-
-### Operational Performance
-![Operational Performance](screenshots/03_Operational_Performance.png)
